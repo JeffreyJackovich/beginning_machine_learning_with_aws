@@ -14,6 +14,9 @@ and most places where technical books are sold.
 2. Summarizing Text Documents Using NLP
 3. Perform Topic Modelling and Theme Extraction
 
+## Contributions
+You're welcome to create issues or submit pull requests. Your feedback is much appreciated!
+
 ## Key Features
 Explore popular AI and ML services with their underlying algorithms
 Use the AWS environment to manage your AI workflow
